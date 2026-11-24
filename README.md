@@ -5,7 +5,7 @@
   <title>Meu primeiro site</title>
 </head>
 <body>
-  <h1>Olá, eu sou [mateus]</h1>
+  <h1>Olá, eu sou mateus</h1>
   <p>Estudo Design Gráfico e este é meu primeiro site no GitHub.</p>
 </body>
 </html>
